@@ -1,0 +1,34 @@
+Updated 5 taps (homebrew/cask-versions, homebrew/core, homebrew/cask, homebrew/cask-fonts and homebrew/cask-drivers).
+==> Updated Formulae
+alp
+ask-cli
+balena-cli
+bandwhich
+broot
+cimg
+composer
+contentful-cli
+cppunit
+exploitdb
+fastmod
+firebase-cli
+gatsby-cli
+gnu-sed
+grafana
+homebank
+jetty
+kepubify
+kubernetes-cli
+nnn
+nss
+pnetcdf
+pyinvoke
+sbt
+sk
+starship
+swagger-codegen
+swiftformat
+topgrade
+triton
+vnstat
+wireshark
