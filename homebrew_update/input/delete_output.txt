@@ -1,0 +1,14 @@
+Error: No available formula with the name "vte"
+==> Searching for a previously deleted formula (in the last month)...
+Warning: homebrew/core is shallow clone. To get complete history run:
+  git -C "$(brew --repo homebrew/core)" fetch --unshallow
+
+vte was deleted from homebrew/core in commit dcdb60b8e:
+  vte: delete
+  Does not support Python 3, and needs pygtk which has been removed.
+
+To show the formula before removal run:
+  git -C "$(brew --repo homebrew/core)" show dcdb60b8e^:Formula/vte.rb
+
+If you still use this formula consider creating your own tap:
+  https://docs.brew.sh/How-to-Create-and-Maintain-a-Tap

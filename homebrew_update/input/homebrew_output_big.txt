@@ -1,4 +1,6 @@
 Updated 5 taps (homebrew/cask-versions, homebrew/core, homebrew/cask, homebrew/cask-fonts and homebrew/cask-drivers).
+==> New Formulae
+onefetch
 ==> Updated Formulae
 alp
 ask-cli
@@ -32,3 +34,17 @@ topgrade
 triton
 vnstat
 wireshark
+==> Deleted Formulae
+diffuse
+hg-flow
+ipython@5
+mysql-utilities
+node@8
+pygobject
+pygtk
+pygtkglext
+pygtksourceview
+redo
+terminator
+vte
+zim

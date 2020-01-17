@@ -1,0 +1,17 @@
+Updated 5 taps (homebrew/cask-versions, homebrew/core, homebrew/cask, homebrew/cask-fonts and homebrew/cask-drivers).
+==> New Formulae
+onefetch
+==> Updated Formulae
+alp
+ask-cli
+balena-cli
+vnstat
+wireshark
+==> Deleted Formulae
+diffuse
+hg-flow
+ipython@5
+redo
+terminator
+vte
+zim
